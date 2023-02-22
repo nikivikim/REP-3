@@ -20,7 +20,7 @@
 
 Скриншот главного окна 
 ---
-![Image alt](https://github.com/nikivikim/REP-3/raw/task8/Звзеда.jpg)
+![Image alt] (https://github.com/nikivikim/REP-3/raw/task8/Звзеда.jpg)
 
 Скриншот работы кнопки звезда
 ---
