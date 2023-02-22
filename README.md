@@ -26,9 +26,13 @@
 
 Скриншот работы кнопки звезда
 ---
-![ОКНО ПРОГРАММЫ](Звзеда.jpg)
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/nikivikim/REP-3/blob/Task8/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0.jpg">
+</p>
 
 Скриншот работы кнопки "Дабавить все"
 ---
-![ОКНО ПРОГРАММЫ](Добавить все.jpg)
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/nikivikim/REP-3/blob/Task8/%D0%92%D1%81%D0%B5%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B.jpg">
+</p>
 
