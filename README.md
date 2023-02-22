@@ -20,7 +20,9 @@
 
 Скриншот главного окна 
 ---
-![ОКНО ПРОГРАММЫ](Главное окно.jpg)
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/nikivikim/REP-3/blob/Task8/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%BA%D0%BD%D0%BE.jpg">
+</p>
 
 Скриншот работы кнопки звезда
 ---
